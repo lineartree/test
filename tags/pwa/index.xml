@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PWA - Tag - My New Hugo Site</title>
+        <link>https://lineartree.github.io/test/tags/pwa/</link>
+        <description>PWA - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 16:21:41 &#43;0100</lastBuildDate><atom:link href="https://lineartree.github.io/test/tags/pwa/" rel="self" type="application/rss+xml" /><item>
+    <title>PWA Support</title>
+    <link>https://lineartree.github.io/test/pwa-support/</link>
+    <pubDate>Mon, 10 May 2021 16:21:41 &#43;0100</pubDate><author>
+                    <name>PCloud</name>
+                </author><guid>https://lineartree.github.io/test/pwa-support/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/test/pwa-support/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>Find out how to turn your DoIt site into a Progressive Web App.</p>]]></description>
+</item></channel>
+</rss>
